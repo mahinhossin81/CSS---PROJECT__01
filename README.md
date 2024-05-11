@@ -1,2 +1,2 @@
-<h2>Live Preview</h2>
+Live Preview
 https://mahinhossin81.github.io/CSS---PROJECT__01/
