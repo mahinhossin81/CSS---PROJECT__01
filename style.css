@@ -365,12 +365,13 @@ body {
      
 
     .header {
-        padding: 30px 16px;
+        padding: 50px 4px;
         margin-left: 10%;
 
         & h1 {
-            font-size: 40px;
+            font-size: 54px;
             color: var(--color);
+            margin-bottom: 8px;
         }
 
         & p {
